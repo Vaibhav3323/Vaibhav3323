@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Vaibhav Sharma 👋
 
-<!--
-**Vaibhav3323/Vaibhav3323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist with hands-on experience in:
+- Data Cleaning & Exploratory Data Analysis (EDA)
+- Machine Learning (Classification & Regression)
+- Real-world datasets (Finance, Churn, Healthcare)
 
-Here are some ideas to get you started:
+### 🛠 Skills
+Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+- Credit Risk Loan Default Prediction
+- Customer Churn Analysis
+- Census Income Prediction
+- COVID-19 Data Analysis
+
+### 📫 Connect with me
+GitHub: https://github.com/Vaibhav3323
