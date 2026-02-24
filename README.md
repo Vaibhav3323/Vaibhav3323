@@ -6,7 +6,7 @@ Aspiring Data Scientist with hands-on experience in:
 - Real-world datasets (Finance, Churn, Healthcare)
 
 ### 🛠 Skills
-Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | SQL
+Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Deep Laerning | Machine Learinig
 
 ### 📂 Featured Projects
 - Credit Risk Loan Default Prediction
